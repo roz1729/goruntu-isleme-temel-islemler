@@ -1,0 +1,1 @@
+# goruntu-isleme-temel-islemler
